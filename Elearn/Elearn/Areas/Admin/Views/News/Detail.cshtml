@@ -1,0 +1,62 @@
+﻿@model News
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+
+
+
+<div class="container-xxl flex-grow-1 container-p-y">
+
+
+    <!-- Basic Bootstrap Table -->
+    <div class="card">
+        <h4 class="card-title text-center" style="margin-top:10px">Works</h4>
+        <div class="table-responsive text-nowrap">
+            <a class="btn btn-success text-white" asp-action="Create" style="float:right;margin-right:20px;margin-top:5px">Create</a>
+            <table class="table">
+                <thead>
+                    <tr>
+
+                        <th>Image</th>
+                        <th>Header</th>
+                        <th>Publisher</th>
+                        <th>Publisher Date</th>
+
+
+
+
+                    </tr>
+                </thead>
+                <tbody class="table-border-bottom-0">
+                    <tr>
+
+                        <td class="py-1">
+                            <img src="~/images/@Model.Image"  alt="image" />
+                            </td>
+                        <td class="py-1">
+                            @Model.Name
+                        </td>
+                        <td class="py-1" style="padding: 1px;">
+                            @Model.Publisher.FullName
+                        </td>
+
+                        <td class="py-1" style="white-space:normal;padding: 51px">
+                            @Model.Time.ToString("MM.dd.yyyy")
+                        </td>
+
+
+
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+    <a class="btn btn-info mt-5" asp-action="Index">Back</a>
+    <!--/ Basic Bootstrap Table -->
+
+</div>
+

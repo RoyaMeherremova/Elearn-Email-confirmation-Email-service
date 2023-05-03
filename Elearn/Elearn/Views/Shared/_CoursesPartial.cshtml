@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Course>
+
+@foreach (var course in Model)
+{
+    <div class="col-lg-4 col-md-6">
+        <div class="course">
+            <div class="course_image"><img src="~/images/@course.Images.FirstOrDefault()?.Name" alt=""></div>
+            <div class="course_body">
+                <div class="course_header d-flex flex-row align-items-center justify-content-start">
+                    <div class="course_tag"><a href="#">Featured</a></div>
+                    <div class="course_price ml-auto">Price: <span>@course.Price</span></div>
+                </div>
+                <div class="course_title"><h3><a href="courses.html">@course.Name</a></h3></div>
+                <div class="course_text">@course.Descriprion</div>
+                <div class="course_footer d-flex align-items-center justify-content-start">
+                    <div class="course_author_image"><img src="~/images/@course.CourseHost.Image" alt="https://unsplash.com/@@anthonytran"></div>
+                    <div class="course_author_name">By <a href="#">@course.CourseHost.FullName</a></div>
+                    <div class="course_sales ml-auto"><span>@course.Sale</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

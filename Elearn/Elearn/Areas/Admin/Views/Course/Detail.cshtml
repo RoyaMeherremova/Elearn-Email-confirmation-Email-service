@@ -1,0 +1,69 @@
+﻿@model Course
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+
+
+
+<div class="container-xxl flex-grow-1 container-p-y">
+
+
+    <!-- Basic Bootstrap Table -->
+    <div class="card">
+        <h4 class="card-title text-center" style="margin-top:10px">Works</h4>
+        <div class="table-responsive text-nowrap">
+            <a class="btn btn-success text-white" asp-action="Create" style="float:right;margin-right:20px;margin-top:5px">Create</a>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Image</th>                      
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Sale Count</th>
+                        <th>Price</th>
+                        <th>Host-Fullname</th>
+                        
+                        
+
+                    </tr>
+                </thead>
+                <tbody class="table-border-bottom-0">                   
+                        <tr>
+                            <td class="py-1">
+                            <img src="~/images/@Model.Images.FirstOrDefault().Name" alt="image" />
+                            </td>
+
+                        <td class="py-1" style="padding: 1px;">
+                                @Model.Name
+                            </td>
+                        <td class="py-1 pp" style="white-space:normal">
+                                <p class="sale">
+                                @Model.Descriprion
+                                </p>
+                                
+                            </td>
+                        <td class="py-1" style="white-space:normal;padding: 51px">
+                                @Model.Sale
+                            </td>
+                        <td class="py-1" style="white-space:normal">
+                                @Model.Price
+                            </td>
+                        <td class="py-1" style="white-space:normal">
+                                @Model.CourseHost.FullName
+                            </td>
+                       
+
+                        </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+     
+    </div>
+    <a class="btn btn-info mt-5" asp-action="Index">Back</a>
+    <!--/ Basic Bootstrap Table -->
+
+</div>
+

@@ -1,0 +1,661 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Elearn.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Elearn.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\css\\demo.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\css\\main.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\admin.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\config.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\Admin\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\Admin\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_1.jpg",
+      "PackagePath": "staticwebassets\\images\\course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_2.jpg",
+      "PackagePath": "staticwebassets\\images\\course_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_3.jpg",
+      "PackagePath": "staticwebassets\\images\\course_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_4.jpg",
+      "PackagePath": "staticwebassets\\images\\course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_5.jpg",
+      "PackagePath": "staticwebassets\\images\\course_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_6.jpg",
+      "PackagePath": "staticwebassets\\images\\course_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_7.jpg",
+      "PackagePath": "staticwebassets\\images\\course_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_8.jpg",
+      "PackagePath": "staticwebassets\\images\\course_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_9.jpg",
+      "PackagePath": "staticwebassets\\images\\course_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_author_2.jpg",
+      "PackagePath": "staticwebassets\\images\\course_author_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\course_author_3.jpg",
+      "PackagePath": "staticwebassets\\images\\course_author_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\elearn.jpg",
+      "PackagePath": "staticwebassets\\images\\elearn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\featured.jpg",
+      "PackagePath": "staticwebassets\\images\\featured.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\featured_author.jpg",
+      "PackagePath": "staticwebassets\\images\\featured_author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\home_logo.png",
+      "PackagePath": "staticwebassets\\images\\home_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\index.jpg",
+      "PackagePath": "staticwebassets\\images\\index.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\milestone_1.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\milestone_2.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\milestone_3.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\milestone_4.svg",
+      "PackagePath": "staticwebassets\\images\\milestone_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\news_1.jpg",
+      "PackagePath": "staticwebassets\\images\\news_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\news_2.jpg",
+      "PackagePath": "staticwebassets\\images\\news_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\news_3.jpg",
+      "PackagePath": "staticwebassets\\images\\news_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\news_4.jpg",
+      "PackagePath": "staticwebassets\\images\\news_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\news_5.jpg",
+      "PackagePath": "staticwebassets\\images\\news_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\news_6.jpg",
+      "PackagePath": "staticwebassets\\images\\news_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\news_7.jpg",
+      "PackagePath": "staticwebassets\\images\\news_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\play_big.png",
+      "PackagePath": "staticwebassets\\images\\play_big.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\teacher_1.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\teacher_2.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\teacher_3.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\teacher_4.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\teacher_5.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\images\\teacher_6.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\js\\about.js",
+      "PackagePath": "staticwebassets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\js\\courses.js",
+      "PackagePath": "staticwebassets\\js\\courses.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\js\\news.js",
+      "PackagePath": "staticwebassets\\js\\news.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\TimelineMax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\TimelineMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\greensock\\animation.gsap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\greensock\\animation.gsap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\parallax-js-master\\parallax.min.js",
+      "PackagePath": "staticwebassets\\plugins\\parallax-js-master\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\scrollmagic\\ScrollMagic.min.js",
+      "PackagePath": "staticwebassets\\plugins\\scrollmagic\\ScrollMagic.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\Youtube.min.js",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\Youtube.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\video-js.css",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\video-js.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\plugins\\video-js\\video.min.js",
+      "PackagePath": "staticwebassets\\plugins\\video-js\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\about.css",
+      "PackagePath": "staticwebassets\\styles\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\about_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\about_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\bootstrap4\\popper.js",
+      "PackagePath": "staticwebassets\\styles\\bootstrap4\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\contact.css",
+      "PackagePath": "staticwebassets\\styles\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\contact_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\contact_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\courses.css",
+      "PackagePath": "staticwebassets\\styles\\courses.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\courses_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\courses_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\main_styles.css",
+      "PackagePath": "staticwebassets\\styles\\main_styles.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\news.css",
+      "PackagePath": "staticwebassets\\styles\\news.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\news_responsive.css",
+      "PackagePath": "staticwebassets\\styles\\news_responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\styles\\responsive.css",
+      "PackagePath": "staticwebassets\\styles\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\Back-End\\HomeWork\\Elearn\\Elearn\\Elearn\\wwwroot\\templates\\verify.html",
+      "PackagePath": "staticwebassets\\templates\\verify.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Elearn.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Elearn.props",
+      "PackagePath": "build\\Elearn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Elearn.props",
+      "PackagePath": "buildMultiTargeting\\Elearn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Elearn.props",
+      "PackagePath": "buildTransitive\\Elearn.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

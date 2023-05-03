@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Course>
+@{
+    ViewData["Title"] = "Course";
+}
+
+<div class="container-xxl flex-grow-1 container-p-y">
+
+
+    <!-- Basic Bootstrap Table -->
+    <div class="card">
+        <h4 class="card-title text-center" style="margin-top:10px">Courses</h4>
+        <div class="table-responsive text-nowrap">
+            <a class="btn btn-success text-white" asp-action="Create" style="float:right;margin-right:20px;margin-top:5px">Create</a>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>Status</th>
+                        <th>Name</th>
+                      
+                    </tr>
+                </thead>
+                <tbody class="table-border-bottom-0">
+
+                    @foreach (var course in Model)
+                    {
+                        <tr>
+                            <td>
+                                <div class="content">
+                                    <img src="~/images/@course.Images.FirstOrDefault()?.Name" alt="image" />
+                                </div>
+                              
+                            </td>
+                            <td>
+                                @if (course.SoftDelete)
+                                {
+                                    <div class="deActive-status"></div>
+                                }
+                                else
+                                {
+                                    <div class="active-status"></div>
+                                }
+
+
+
+
+                            </td>
+                            <td class="py-1">
+                                @course.Name
+                            </td>
+                           
+                            
+                            <td>
+                                <a class="btn btn-outline-info" asp-action="Detail" asp-route-id="@course.Id">Info</a>
+                                <a class="btn btn-outline-primary" asp-action="Edit" asp-route-id="@course.Id">Edit</a>
+                                <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@course.Id">Delete</a>
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <!--/ Basic Bootstrap Table -->
+
+</div>

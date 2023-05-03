@@ -1,0 +1,57 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Delete";
+
+}
+
+<div class="container my-5">
+
+    <div class="form-group">
+        <label for="formFile" class="form-label my-2">Title</label>
+        <input class="form-control" disabled id="customFile" asp-for="Name" />
+        <span class="text-danger" asp-validation-for="Name">@ViewBag.error</span>
+    </div>
+    <div class="form-group">
+        <label for="formFile" class="form-label my-2">Description</label>
+        <input type="text" class="form-control" disabled id="category-text" asp-for="Descriprion" />
+        <span class="text-danger" asp-validation-for="Descriprion">@ViewBag.error</span>
+    </div>
+    <div class="form-group">
+        <label for="formFile" class="form-label my-2">Price</label>
+        <input type="text" class="form-control" disabled id="customFile" asp-for="Price" />  @*step=".01"---input type decimal olsun*@
+        <span class="text-danger" asp-validation-for="Price">@ViewBag.error</span>
+    </div>
+    <div class="form-group">
+        <label for="formFile" class="form-label my-2">Sale</label>
+        <input class="form-control" disabled id="customFile" asp-for="Sale" />
+        <span class="text-danger" asp-validation-for="Sale">@ViewBag.error</span>
+    </div>
+    <div class="form-group">
+        <label for="formFile" class="form-label my-2">Owner</label>
+        <input class="form-control" disabled id="customFile" asp-for="CourseHost.FullName" />
+    </div>
+    <div class="form-group">
+        @foreach (var item in Model.Images)  //bu producta aid sekiller gorsensin hamsi
+        {
+            <img src="~/images/@item.Name" style="width:150px;height:150px" />
+        }
+    </div>
+    <div class="form-group">
+        <h3 class="text-danger">Are you sure to delete product?</h3>
+    </div>
+
+
+    <form class="forms-sample" asp-action="Delete" method="post">
+        <div class="form-group">
+            <div class="buttons my-3">
+                <button type="submit" class="btn btn-primary mr-2">Delete</button>
+                <a class="btn btn-light" asp-action="Index">Cancel</a>
+            </div>
+
+        </div>
+    </form>
+
+</div>
+
+
+
